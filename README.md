@@ -1,2 +1,5 @@
 # Laptop-Price-Prediction-
 Laptop Price Prediction using the Decision Tree method, this project predicts laptop prices. Explore how data reveals insights into laptop pricing.
+<div style="padding-top: 20px;">
+    <img src="[https://images.unsplash.com/photo-1535869462434-f92cc30bf40c?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTN8fHdpbmV8ZW58MHx8MHx8fDA=&w=1000&q=80](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.telegraphindia.com%2Fscience-tech%2Facer-launches-five-new-laptops-with-11th-gen-intel-core-processor%2Fcid%2F1797613&psig=AOvVaw1VdDeALOTdXm6UR-AcGs--&ust=1697885848811000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCMDO7-i7hIIDFQAAAAAdAAAAABAG)https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.telegraphindia.com%2Fscience-tech%2Facer-launches-five-new-laptops-with-11th-gen-intel-core-processor%2Fcid%2F1797613&psig=AOvVaw1VdDeALOTdXm6UR-AcGs--&ust=1697885848811000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCMDO7-i7hIIDFQAAAAAdAAAAABAG" width="900px" height="auto">
+</div>
