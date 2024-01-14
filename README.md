@@ -1,4 +1,4 @@
-# Laptop-Price-Prediction-
+# Laptop Price Prediction
 Laptop Price Prediction using the Decision Tree method, this project predicts laptop prices. Explore how data reveals insights into laptop pricing. This machine learning project harnesses the Decision Tree Regressor algorithm to predict laptop prices. Unveil how the power of data can provide insights into laptop pricing dynamics.
 <div style="padding-top: 20px;">
     <img src="https://johnlewis.scene7.com/is/image/JohnLewis/laptops-buying-guide-hero-130423" width="1000px" height="auto">
